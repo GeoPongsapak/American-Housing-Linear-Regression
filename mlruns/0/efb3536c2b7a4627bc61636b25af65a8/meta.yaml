@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/efb3536c2b7a4627bc61636b25af65a8/artifacts
+deleted_time: 1703053610763
+end_time: 1703053261134
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: efb3536c2b7a4627bc61636b25af65a8
+run_name: orderly-croc-862
+run_uuid: efb3536c2b7a4627bc61636b25af65a8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703053258124
+status: 4
+tags: []
+user_id: ufund

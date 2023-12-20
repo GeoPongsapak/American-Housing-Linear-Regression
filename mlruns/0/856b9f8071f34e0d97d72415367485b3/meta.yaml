@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/856b9f8071f34e0d97d72415367485b3/artifacts
+deleted_time: 1703053610772
+end_time: 1703046251035
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 856b9f8071f34e0d97d72415367485b3
+run_name: learned-carp-46
+run_uuid: 856b9f8071f34e0d97d72415367485b3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703046247373
+status: 4
+tags: []
+user_id: ufund

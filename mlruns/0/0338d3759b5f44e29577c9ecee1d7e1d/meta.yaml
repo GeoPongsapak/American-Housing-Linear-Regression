@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/0338d3759b5f44e29577c9ecee1d7e1d/artifacts
+deleted_time: 1703053610769
+end_time: 1703052691105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 0338d3759b5f44e29577c9ecee1d7e1d
+run_name: delightful-wren-695
+run_uuid: 0338d3759b5f44e29577c9ecee1d7e1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703052688342
+status: 4
+tags: []
+user_id: ufund

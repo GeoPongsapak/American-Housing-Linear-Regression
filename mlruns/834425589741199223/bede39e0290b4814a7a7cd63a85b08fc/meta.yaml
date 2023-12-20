@@ -1,0 +1,15 @@
+artifact_uri: /Users/ufund/american-housing-linear-regression/taxi_fare_model/bede39e0290b4814a7a7cd63a85b08fc/artifacts
+end_time: 1703054310712
+entry_point_name: ''
+experiment_id: '834425589741199223'
+lifecycle_stage: active
+run_id: bede39e0290b4814a7a7cd63a85b08fc
+run_name: version_2
+run_uuid: bede39e0290b4814a7a7cd63a85b08fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703054308486
+status: 3
+tags: []
+user_id: ufund

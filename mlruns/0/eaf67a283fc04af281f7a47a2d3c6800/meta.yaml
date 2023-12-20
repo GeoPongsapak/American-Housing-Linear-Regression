@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/eaf67a283fc04af281f7a47a2d3c6800/artifacts
+deleted_time: 1703053610770
+end_time: 1703052820200
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: eaf67a283fc04af281f7a47a2d3c6800
+run_name: calm-moose-857
+run_uuid: eaf67a283fc04af281f7a47a2d3c6800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703052817466
+status: 4
+tags: []
+user_id: ufund

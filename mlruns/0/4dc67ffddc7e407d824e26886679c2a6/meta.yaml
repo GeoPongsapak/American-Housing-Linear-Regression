@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/4dc67ffddc7e407d824e26886679c2a6/artifacts
+deleted_time: 1703053610770
+end_time: 1703052648264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 4dc67ffddc7e407d824e26886679c2a6
+run_name: overjoyed-turtle-254
+run_uuid: 4dc67ffddc7e407d824e26886679c2a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703052645171
+status: 4
+tags: []
+user_id: ufund
