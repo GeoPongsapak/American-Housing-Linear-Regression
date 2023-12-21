@@ -1,5 +1,0 @@
-outs:
-- md5: 3225103c9bf5bb76236148fff4307be8
-  size: 2150410
-  hash: md5
-  path: taxi_fare_train.csv
