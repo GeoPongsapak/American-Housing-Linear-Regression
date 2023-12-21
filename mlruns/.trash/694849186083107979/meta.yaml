@@ -1,7 +1,0 @@
-artifact_location: mlflow-artifacts:/694849186083107979
-creation_time: 1703052960175
-experiment_id: '694849186083107979'
-last_update_time: 1703053066998
-lifecycle_stage: deleted
-name: taxi_fare_model
-tags: {}
